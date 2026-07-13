@@ -13,4 +13,4 @@ My first Core Java practice project—a console-based Quiz Application built to 
 - Java (Core Java)
 
 ## Author
-Swaraj Kansyakar
+Swaraj

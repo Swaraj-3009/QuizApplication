@@ -1,5 +1,3 @@
-package javaProject.QuizApplication;
-
 public class Question {
 
     final private int questionId;

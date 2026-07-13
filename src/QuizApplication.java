@@ -1,5 +1,3 @@
-package javaProject.QuizApplication;
-
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
